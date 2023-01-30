@@ -8,7 +8,7 @@ content='''
 <body>
 
 <h1>Django</h1>
-<p>This is Web Application Framework written in python by Bala</p>
+<p>This is Web Application Framework written in python by kamalesh</p>
 
 </body>
 </html>
